@@ -19,7 +19,8 @@ dependencies = [
     "OpenOrchestrator == 3.*",
     "Pillow == 10.*",
     "requests",
-    "azure-storage-blob == 12.28.0"
+    "azure-storage-blob == 12.28.0",
+    "pip_system_certs"
 ]
 
 [project.optional-dependencies]
